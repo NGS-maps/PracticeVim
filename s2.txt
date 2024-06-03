@@ -1,0 +1,9 @@
+#include <stdio.h>
+
+int main(int argc, char **argv)
+ {
+ int i,j,k;
+ int num_base;
+ int num_line;
+ return 1;
+ }
